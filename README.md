@@ -20,7 +20,7 @@
 <details>
 <summary><b>Click to expand</b></summary>
 
-''' bash
+
 # 1. Clone this repo
 git clone https://github.com/Divy005/SIH_People-Counting-with-YOLOv8-Norfair.git
 cd people-counting-yolo
