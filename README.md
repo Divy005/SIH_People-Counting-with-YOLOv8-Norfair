@@ -21,9 +21,9 @@
 <summary><b>Click to expand</b></summary>
 
 
-# 1. Clone this repo
+ 1. Clone this repo
 git clone https://github.com/Divy005/SIH_People-Counting-with-YOLOv8-Norfair.git
 cd people-counting-yolo
 
-# 2. Install dependencies
+ 2. Install dependencies
 pip install -r requirements.txt
